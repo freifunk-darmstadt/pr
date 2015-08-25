@@ -1,11 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2015.8.10)  21 AUG 2015 00:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.5.28)  25 AUG 2015 19:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**\nonstopmode \input{flyer_refugees.tex}
-(./flyer_refugees.tex (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+**flyer_refugees.tex
+(./flyer_refugees.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -20,27 +23,27 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+(/usr/share/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2015/03/17 v1.2c Input encoding file
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2014/04/30 v1.2b Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
-File: utf8.def 2015/06/27 v1.1n UTF-8 support for inputenc
+(/usr/share/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
-File: t1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
+(/usr/share/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00AB (decimal 171)
@@ -189,8 +192,8 @@ File: t1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
-File: ot1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
+(/usr/share/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00B8 (decimal 184)
@@ -220,8 +223,8 @@ File: ot1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
-File: omsenc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
+(/usr/share/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -244,40 +247,40 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2015/08/03 3.9m The Babel package
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/09/25 3.9l The Babel package
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel-german/german.ldf
+(/usr/share/texmf-dist/tex/generic/babel-german/german.ldf
 Language: german 2014/10/10 v2.7b German support for babel (traditional orthogr
 aphy)
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel-german/germanb.ldf
+(/usr/share/texmf-dist/tex/generic/babel-german/germanb.ldf
 Language: germanb 2014/10/10 v2.7b German support for babel (traditional orthog
 raphy)
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2015/08/03 3.9m Babel common definitions
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/09/25 3.9l Babel common definitions
 \babel@savecnt=\count87
 \U@D=\dimen103
 )
 \l@austrian = a dialect from \language\l@german 
 Package babel Info: Making " an active character on input line 110.
 )))
-(/usr/share/texlive/texmf-dist/tex/latex/eurosym/eurosym.sty
+(/usr/share/texmf-dist/tex/latex/eurosym/eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 \@eurobox=\box26
 )
-(/usr/share/texlive/texmf-dist/tex/latex/opensans/opensans.sty
+(/usr/share/texmf-dist/tex/latex/opensans/opensans.sty
 Package: opensans 2011/11/11 Opensans
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(/usr/share/texlive/texmf-dist/tex/latex/slantsc/slantsc.sty
+(/usr/share/texmf-dist/tex/latex/slantsc/slantsc.sty
 Package: slantsc 2012/01/01 v2.11 Provide Slanted an Italic Small Caps
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 LaTeX Info: Redefining \upshape on input line 35.
@@ -285,34 +288,34 @@ LaTeX Info: Redefining \slshape on input line 45.
 LaTeX Info: Redefining \itshape on input line 55.
 LaTeX Info: Redefining \scshape on input line 65.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/bera/beramono.sty
+(/usr/share/texmf-dist/tex/latex/bera/beramono.sty
 Package: beramono 2004/01/31 (WaS)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+(/usr/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/share/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/share/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
@@ -320,7 +323,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+(/usr/share/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen106
 \lightrulewidth=\dimen107
@@ -340,23 +343,22 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count92
 \@thisrulewidth=\dimen118
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+(/usr/share/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 142.
+Package color Info: Driver file: pdftex.def on input line 137.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+(/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip43
 \enit@outerparindent=\dimen119
 \enit@toks=\toks17
 \enit@inbox=\box27
 \enitdp@description=\count93
-)
-(./flyer_refugees.aux)
+) (./flyer_refugees.aux)
 \openout1 = `flyer_refugees.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
@@ -373,13 +375,13 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Try loading font information for T1+fos on input line 42.
 
-(/usr/share/texlive/texmf-dist/tex/latex/opensans/t1fos.fd
+(/usr/share/texmf-dist/tex/latex/opensans/t1fos.fd
 File: t1fos.fd 2011/11/11 Fontinst v1.927 font definitions for T1/fos.
 )
 LaTeX Font Info:    Font shape `T1/fos/m/n' will be
 (Font)              scaled to size 15.0pt on input line 42.
 
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count94
 \scratchdimen=\dimen120
@@ -392,15 +394,15 @@ LaTeX Font Info:    Font shape `T1/fos/m/n' will be
 \MPnumerator=\count98
 \makeMPintoPDFobject=\count99
 \everyMPtoPDFconversion=\toks19
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+) (/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
@@ -409,22 +411,22 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -436,7 +438,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -450,60 +452,71 @@ LaTeX Font Info:    Font shape `T1/fos/b/it' will be
 (Font)              scaled to size 37.32pt on input line 46.
 LaTeX Font Info:    Font shape `T1/fos/m/n' will be
 (Font)              scaled to size 18.0pt on input line 48.
+LaTeX Font Info:    Try loading font information for T1+augie on input line 56.
 
-Overfull \hbox (0.4311pt too wide) in paragraph at lines 57--58
-\T1/fos/m/n/10 Um-ge-bung ein of-fe-nes und ko-sten-lo-ses WLAN-Netzwerk auf-zu
--bau-en. Wir stel-
- []
+
+(/usr/share/texmf-dist/tex/latex/augie/t1augie.fd
+File: t1augie.fd 2000/10/19 Fontinst v1.914 font definitions for T1/augie.
+)
+LaTeX Font Info:    Font shape `T1/fos/m/it' will be
+(Font)              scaled to size 15.0pt on input line 59.
 
 <logo.png, id=1, 610.75235pt x 120.45pt>
 File: logo.png Graphic file (type png)
  <use logo.png>
-Package pdftex.def Info: logo.png used on input line 69.
+Package pdftex.def Info: logo.png used on input line 71.
 (pdftex.def)             Requested size: 537.75343pt x 106.05328pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo.png>]
 LaTeX Font Info:    Font shape `T1/fos/bx/n' in size <10> not available
-(Font)              Font shape `T1/fos/b/n' tried instead on input line 76.
+(Font)              Font shape `T1/fos/b/n' tried instead on input line 78.
 LaTeX Font Info:    Font shape `T1/fos/b/n' will be
-(Font)              scaled to size 15.0pt on input line 76.
+(Font)              scaled to size 15.0pt on input line 78.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 79.
+(Font)              <7> on input line 81.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 79.
+(Font)              <5> on input line 81.
 
-<community.jpg, id=13, 602.25pt x 301.125pt>
+<community.jpg, id=16, 602.25pt x 301.125pt>
 File: community.jpg Graphic file (type jpg)
  <use community.jpg>
-Package pdftex.def Info: community.jpg used on input line 93.
+Package pdftex.def Info: community.jpg used on input line 95.
 (pdftex.def)             Requested size: 597.50787pt x 298.7809pt.
 
-Overfull \hbox (29.87723pt too wide) in paragraph at lines 93--95
+Overfull \hbox (29.87723pt too wide) in paragraph at lines 95--97
  | [] 
+ []
+
+
+Overfull \hbox (3.49101pt too wide) in paragraph at lines 101--102
+[]\T1/fos/m/n/10 Unser \T1/fos/b/n/10 of-fe-nes Tref-fen \T1/fos/m/n/10 fin-det
+ \T1/fos/m/it/10 je-de Wo-che Mon-tags um 19:00 Uhr \T1/fos/m/n/10 in der Willh
+elm-
  []
 
 [2 <./community.jpg>] (./flyer_refugees.aux) ) 
 Here is how much of TeX's memory you used:
- 3096 strings out of 494950
- 42836 string characters out of 6178921
- 100482 words of memory out of 5000000
- 6270 multiletter control sequences out of 15000+600000
- 30861 words of font info for 38 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 39i,6n,23p,380b,181s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fo
-nts/enc/dvips/opensans/opensans-04.enc}{/usr/share/texlive/texmf-dist/fonts/enc
-/dvips/opensans/opensans-03.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/
-opensans/opensans-01.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/open
-sans/OpenSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/opensa
-ns/OpenSans-BoldItalic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/op
-ensans/OpenSans-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/e
-urosym/feymr10.pfb>
-Output written on flyer_refugees.pdf (2 pages, 113870 bytes).
+ 3111 strings out of 493109
+ 42336 string characters out of 6140856
+ 104670 words of memory out of 5000000
+ 6488 multiletter control sequences out of 15000+600000
+ 37353 words of font info for 46 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,6n,23p,412b,181s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/
+dvips/opensans/opensans-04.enc}{/usr/share/texmf-dist/fonts/enc/dvips/opensans/
+opensans-03.enc}{/usr/share/texmf-dist/fonts/enc/dvips/opensans/opensans-01.enc
+}{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/font
+s/type1/public/opensans/OpenSans-Bold.pfb></usr/share/texmf-dist/fonts/type1/pu
+blic/opensans/OpenSans-BoldItalic.pfb></usr/share/texmf-dist/fonts/type1/public
+/opensans/OpenSans-Italic.pfb></usr/share/texmf-dist/fonts/type1/public/opensan
+s/OpenSans-Regular.pfb><</usr/share/texmf-dist/fonts/type1/public/augie/augie__
+_.pfb>></usr/share/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb>
+Output written on flyer_refugees.pdf (2 pages, 178263 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 53 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
