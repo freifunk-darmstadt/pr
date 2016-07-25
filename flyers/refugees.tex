@@ -19,7 +19,7 @@
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[german]{babel}
-\usepackage{eurosym}
+\usepackage{textcomp}
 
 \usepackage[default,scale=1.5]{opensans}
 \usepackage[scaled=1.4]{beramono}
@@ -27,7 +27,7 @@
 
 \usepackage{url}
 \usepackage{graphicx}
-
+\usepackage{grid-system}
 \usepackage{booktabs}
 
 
@@ -43,10 +43,10 @@
 \thispagestyle{empty}
 
 \begin{center}
-\Huge \textit{\textbf{\textcolor{freifunkpink}{Internet für Flüchtlinge}}} \\
+\Huge \textit{\textbf{\textcolor{freifunkpink}{Internet für Geflüchtete}}} \\
 \vspace{0.6cm}
 \large Freifunk ist ein regionales Mitmach-Netz für WLAN und Internet.\\
-Hilf uns das Netz in deinem Stadtteil auszubauen \\
+Hilf uns das Netz in deiner Nachbarschaft auszubauen \\
 und teile dein Internet mit anderen Menschen!
 \normalsize
 
@@ -56,48 +56,67 @@ und teile dein Internet mit anderen Menschen!
 { \fontfamily{augie}\selectfont{\huge {}Liebe Nachbarn!}}
 \vspace{0.5cm}
 
-Freifunk Darmstadt ist eine lokales Projekt mit dem Ziel, in Darmstadt und Umgebung ein \emph{offenes} und \emph{kostenloses} WLAN-Netzwerk aufzubauen. Wir stellen Technik bereit, mit der \emph{jeder} seinen Internetzugang \emph{unkompliziert} mit anderen (z.B. auch den eigenen Gästen) teilen kann. Das Netz ist so aufgebaut, dass die rechtlichen Risiken für Betreiber minimal sind und das Heimnetz geschützt bleibt.
+Freifunk Darmstadt ist eine lokale, nicht-kommerzielle Initiative von ehrenamtlich Aktiven mit dem Ziel, in Darmstadt und Umgebung ein \emph{offenes} und \emph{kostenlos} nutzbares WLAN-Netzwerk aufzubauen. Wir stellen Technik bereit, mit der \emph{jeder} seinen Internetzugang \emph{unkompliziert} mit anderen (z.B. auch den eigenen Gästen) teilen kann. Das Netz ist so aufgebaut, dass die rechtlichen Risiken für Betreiber minimal sind und das Heimnetz geschützt bleibt.
 
-Die Flüchtlinge, die seit kurzem Eure Nachbarn sind, benötigen einen Internetzugang, um Kontakt mit ihrer Familie und ihrer alten Heimat zu halten und sich im Internet zu informieren. Ein internetfähiges Smartphone ist heute auch für Flüchtlinge erschwinglich, jedoch können viele sich die vergleichsweise teuren Datentarife der Mobilfunkanbieter nicht leisten.
+Die Flüchtlinge, die seit kurzem Eure Nachbarn sind, benötigen einen Internetzugang, um Kontakt mit ihrer Familie und ihrer alten Heimat zu halten und sich im Internet zu informieren. Ein internetfähiges Smartphone besitzen viele Geflüchtete bereits. Nach Ihrer Flucht können sich viele jedoch die vergleichsweise teuren Datentarife der Mobilfunkanbieter nicht leisten.
 
 Zur Zeit unterstützen schon etwa 400 Menschen in Darmstadt und Umgebung Freifunk und teilen ihren Internetzugang. \emph{In der Nähe der Flüchtlingunterkünfte werden aber zur Zeit noch dringend weitere Zugangspunkte benötigt.}
 
-Ihr könnt helfen und selbst einen Router für Freifunk installieren. Eine Liste von geeigneten Geräten haben wir auf der Rückseite zusammengestellt. Für die Installation folge der Anleitung auf unserer Webseite. Wenn es zu Problemen kommt, helfen wir natürlich gerne weiter oder geben euch ein von uns vorbereitetes Gerät mit! \textbf{Bitte kontaktiert uns, wenn ihr gerne helfen möchtet.}
+Ihr könnt helfen und selbst einen Router aufstellen. Die von uns eingesetzten Modelle beginnen bereits bei ca. 30 \texteuro. Dieser sogenannte Freifunkknoten leitet den Datenverkehr dann über die Freifunk-Server ins Internet. Dadurch kann der Datenverkehr dritter nicht auf deinen privaten Anschluss zurückgeführt werden. \textbf{Bitte kontaktierte uns, wenn Du gerne helfen möchtest.}
 
-\vspace{0.6cm}
-
-\begin{center}
-\includegraphics[width=\textwidth]{../images/footer_dark}
-\end{center}
+\vspace{1.28cm}
+\hspace{-0.24cm}
+\includegraphics[width=0.965\paperwidth]{../images/footer_dark}
 
 \newpage
-
 \thispagestyle{empty}
 
-\textbf{Unterstützte Geräte}
+\begin{Row}
+  \begin{Cell}{5}
+    \textbf{Werde ein Teil von Freifunk} \\
+Freifunk-Netze sind Selbstmach-Netze. Auch Du kannst dazu beitragen, indem Du einen WLAN-Router mit der Freifunk-Software aufstellst und deinen Internetzugang mit anderen teilst. Wenn viele mitmachen, entsteht ein flächendeckendes, freies WLAN-Netz.
+  \end{Cell}
+  \begin{Cell}{4}
+    \textbf{Wir verstehen frei als:} \vspace*{-0.35cm}
 
-\begin{center}
-\begin{tabular}{lccc} \toprule
-	Modell (Herst.: TP-Link) & Preis ca. & WLAN (2,4/5\,GHz) &Freifunk-VPN Datenrate \\ \midrule
-	TL-WR842 (N / ND, v2) & \EUR{30} & 300 / -- & bis zu 16 Mbit/s \\
-	TL-WR1043 (ND v2, v3) & \EUR{45} & 450 / -- & bis zu 23 Mbit/s \\
-	Archer C5 v1.2 & \EUR{75} &300 / 866 & bis zu 23 Mbit/s\\
-	Archer C7 v2 & \EUR{95} & 450 / 1200 & bis zu 23 Mbit/s\\
-	\bottomrule
-\end{tabular}
-\end{center}
+		\begin{itemize}
+			\setlength{\itemindent}{0.5em}
+		  \item[\textcolor{freifunkpink}{\Large$\bullet$}] öffentlich \vspace*{-0.3cm}
+		  \item[\textcolor{freifunkpink}{\Large$\bullet$}] anonym zugänglich \vspace*{-0.3cm}
+		  \item[\textcolor{freifunkpink}{\Large$\bullet$}] nicht kommerziell \vspace*{-0.3cm}
+		  \item[\textcolor{freifunkpink}{\Large$\bullet$}] unzensiert \vspace*{-0.3cm}
+		  \item[\textcolor{freifunkpink}{\Large$\bullet$}] gemeinschaftlich betrieben\vspace*{-0.3cm}
+			\item[\textcolor{freifunkpink}{\Large$\bullet$}] dezentral organisiert\vspace*{-0.3cm}
+		  \item[\textcolor{freifunkpink}{\Large$\bullet$}] unabhängig
+		\end{itemize}
+  \end{Cell}
+\end{Row}
 
-Die meisten Geräte sind online bei z.\,B. Amazon oder in Darmstadt bei Zimmermann Elektronic  (Kreuzung Rhein-/Neckerstraße) oder Saturn (Fussgängerzone Innenstadt oder Loop5) erhältlich. Alternativ könnt Ihr auch für das Projekt spenden, damit wir selbst mehr Zugangspunkte aufbauen können. \\
-\textbf{Spendenseite:} https://darmstadt.freifunk.net/mitmachen/spenden
+\vspace{1.5em}
+
+\begin{Row}
+  \begin{Cell}{5}
+    \textbf{Unser Ziele}\vspace*{-0.35cm}
+		\begin{itemize}
+			\setlength{\itemindent}{0.5em}
+			\item[\textcolor{freifunkpink}{\Large$\bullet$}] Aufklärung und Sensibilisierung zum Thema Kommunikationsfreiheit\vspace*{-0.3cm}
+			\item[\textcolor{freifunkpink}{\Large$\bullet$}] Verminderung der digitalen Spaltung\vspace*{-0.3cm}
+			\item[\textcolor{freifunkpink}{\Large$\bullet$}] Ungehinderte Verbreitung von Wissen und Ressourcen\vspace*{-0.3cm}
+			\item[\textcolor{freifunkpink}{\Large$\bullet$}] Menschen dazu befähigen, eigene Netze aufzubauen und zu betreiben\vspace*{-0.3cm}
+			\item[\textcolor{freifunkpink}{\Large$\bullet$}] Vorhandene und neue Sozialstrukturen fördern und vernetzen\vspace*{-0.3cm}
+		\end{itemize}
+  \end{Cell}
+\end{Row}
+
 
 \begin{center}
 	\vspace{.3cm}
 	\hspace*{-0.05 \paperwidth}\includegraphics[width=\paperwidth]{../images/community_router}
 \end{center}
 
-Alle Informationen \& Kontakte findet Ihr auf \textbf{http://darmstadt.freifunk.net}.\\
-Per Mail erreicht ihr uns unter \textbf{info@darmstadt.freifunk.net}.
+Alle Informationen \& Kontakte findest Du auf \textbf{https://darmstadt.freifunk.net}.\\
+Per Mail erreichst Du uns unter \textbf{info@darmstadt.freifunk.net}.
 
-Informationen zu unseren wöchentlichen \textbf{offenen Treffen} findet ihr auf unserer Webseite. Ihr seid herzlich eingeladen!
+Informationen zu unseren wöchentlichen \textbf{offenen Treffen} finden sich auf unserer Webseite. Du bist herzlich eingeladen!
 
 \end{document}
