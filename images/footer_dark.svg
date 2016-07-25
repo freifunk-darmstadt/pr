@@ -5,11 +5,35 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
    viewBox="0 0 1497.1428 307.42854"
    height="307.42856"
-   width="1497.1427">
+   width="1497.1427"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="footer_dark.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1341"
+     inkscape:window-height="741"
+     id="namedview59"
+     showgrid="false"
+     inkscape:zoom="0.58187877"
+     inkscape:cx="400.8376"
+     inkscape:cy="333.79825"
+     inkscape:window-x="23"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
   <defs
      id="defs4">
     <font
@@ -156,7 +180,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -218,7 +242,7 @@
        transform="matrix(3.5433073,0,0,3.5433073,-842.97315,367.01317)" />
   </g>
   <g
-     transform="translate(11.42859,48.932178)"
+     transform="translate(7.4285898,54.932178)"
      style="display:inline"
      id="layer5">
     <flowRoot
@@ -243,7 +267,8 @@
            height="144.28572"
            width="1437.1428"
            id="rect5115" /></flowRegion><flowPara
-         id="flowPara5117">darmstadt.freifunk.net</flowPara></flowRoot>  </g>
+         id="flowPara5117"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';letter-spacing:3.50120354px">darmstadt.freifunk.net</flowPara></flowRoot>  </g>
   <g
      transform="translate(11.42859,48.932178)"
      style="display:inline"
